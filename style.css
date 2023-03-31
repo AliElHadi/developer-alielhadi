@@ -1,0 +1,14 @@
+.info {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    padding: 10px;
+    z-index: 1;
+  }
+
+  .card:hover .info {
+    display: block;
+  }
+
+  
